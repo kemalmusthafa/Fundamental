@@ -1,0 +1,1 @@
+const str: string = "Welcome to Day-4"
