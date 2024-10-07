@@ -1,1 +1,1 @@
-const str: string = "Welcome to Day-4"
+console.log("Welcome to Exercises");
