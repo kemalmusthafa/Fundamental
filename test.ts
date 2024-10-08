@@ -1,1 +1,1 @@
-console.log("Welcome to Exercises");
+console.log("Welcome to day-6 Object Oriented Programming");
