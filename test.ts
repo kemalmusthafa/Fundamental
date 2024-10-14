@@ -1,1 +1,1 @@
-console.log("Welcome to Day-9 Fundamental(Data Structure)");
+console.log("Welcome to Day-10 Fundamental(Algorithm)");
