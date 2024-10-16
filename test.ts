@@ -1,1 +1,1 @@
-console.log("Welcome to Day-11 Fundamental(Exercises)");
+console.log("Welcome to Day-12 Fundamental(Exercises)");
